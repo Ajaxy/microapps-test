@@ -1,4 +1,4 @@
-*DEMO* http://microapps-test.s3-website.eu-central-1.amazonaws.com/
+**DEMO** http://microapps-test.s3-website.eu-central-1.amazonaws.com/
 
 `React` and `Redux` with immutable state are used as core technologies, `Less` as CSS precompiler. All code is written in ES6 syntax.
 
