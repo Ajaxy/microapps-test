@@ -1,3 +1,5 @@
+*DEMO* http://microapps-test.s3-website.eu-central-1.amazonaws.com/
+
 `React` and `Redux` with immutable state are used as core technologies, `Less` as CSS precompiler. All code is written in ES6 syntax.
 
 App is split into 3 main React components representing user actions: `DonationForm`, `PayonForm` and `Thanks` with addition of a log of donations in `Donations` component. Components are managed and connected to Redux store via `DonateContainer` component.
